@@ -1,3 +1,4 @@
+package lessons;
 
 public class MethodsLesson {
     // static means this method belongs to the class itself rather than an
